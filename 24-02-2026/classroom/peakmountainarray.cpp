@@ -1,4 +1,5 @@
-// find peak element in mountain array
+// LEETCODE 162 - Find Peak Element
+// find peak element in mountain array 
 #include <iostream>
 #include <vector>
 using namespace std;
